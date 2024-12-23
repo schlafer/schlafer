@@ -11,7 +11,7 @@ Electrical and Electronic Engineering Graduate
         <a href="https://scholar.google.com/citations?user=dHu_Hi0AAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/></a>
         </div>
         <br>
-        <h2>Skills</h2>
+        <h2>Tools</h2>
         <div>
             <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
             <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
@@ -29,17 +29,18 @@ Electrical and Electronic Engineering Graduate
             <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"/>
             <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"/>
             <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-          </div>
+            <img src= "https://img.shields.io/badge/Octave%2FMATLAB-black?style=for-the-badge&logo=octave&link=https%3A%2F%2Fwww.mathworks.com%2Fproducts%2Fmatlab.html"/>
+        </div>
         <br>
         <h2>Familiar/Learning</h2>
-          <div>
+        <div>
             <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
             <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
             <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
             <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
             <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
             <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-          </div>
+        </div>
         <br>
         <h2>Operating Systems</h2>
         <div>
