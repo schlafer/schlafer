@@ -5,10 +5,8 @@ Electronics Engineer
 <div align="left">
         <h2>Contact</h2>
         <div>
-        <a href="https://linktr.ee/sazid_mahmud"><img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white"/></a>
         <a href="https://discord.com/users/331727377019437056"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge"/></a>
         <a href="mailto:sazidm@proton.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/></a>
-        <a href="https://scholar.google.com/citations?user=dHu_Hi0AAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/></a>
         </div>
         <br>
         <h2>Tools</h2>
