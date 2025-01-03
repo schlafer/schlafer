@@ -1,6 +1,6 @@
 Hi![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Sazid
 =============================================================================================================================
-Electrical and Electronic Engineering Graduate
+Electronics Engineer | Programming Enjoyer
 -----------
 <div align="left">
         <h2>Contact</h2>
@@ -14,10 +14,11 @@ Electrical and Electronic Engineering Graduate
         <h2>Tools</h2>
         <div>
             <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-            <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
+            <!--<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
             <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
             <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
-            <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+            <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>-->
+            <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
             <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
             <img src= "https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
             <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
@@ -37,9 +38,13 @@ Electrical and Electronic Engineering Graduate
             <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
             <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
             <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-            <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+            <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
+            <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+            <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+            <!--<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
             <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+            <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+            -->
         </div>
         <br>
         <h2>Operating Systems</h2>
@@ -49,9 +54,10 @@ Electrical and Electronic Engineering Graduate
         </div>
         <br>
         <div>
-          <img src="https://github-readme-stats.vercel.app/api?username=schlafer&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/> 
-          <br>
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=schlafer&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
+                <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6776b64070129741a8c96582?variant=dark&roadmaps=golang" alt="roadmap.sh"/></a>
+                <br>
+                <img src="https://github-readme-stats.vercel.app/api?username=schlafer&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/> 
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=schlafer&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
         </div>
 
         
