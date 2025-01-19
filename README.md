@@ -1,6 +1,6 @@
 Hi![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Sazid
 =============================================================================================================================
-Electronics Engineer 
+Interested in Backend, Cloud, Networking, Deep Learning.
 -----------
 <div align="left">
         <h2>Contact</h2>
@@ -48,8 +48,6 @@ Electronics Engineer
         </div>
         <br>
         <div>
-                <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6776b64070129741a8c96582?variant=dark&roadmaps=golang" alt="roadmap.sh"/></a>
-                <br>
                 <img src="https://github-readme-stats.vercel.app/api?username=schlafer&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/> 
                 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=schlafer&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
         </div>
