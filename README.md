@@ -33,8 +33,15 @@ Journaling for me creates a loop: experience → reflection → learning → act
 
 I lift weights everyday except Friday. I highly recommend everyone to lift heavy. Strengthens both memory and creativity as your body primes your brain.
 
+My Approach to Engineering
+---
+- Attention to detail. Slow is fast, fast is slow. 
+- During learning phase, keep re-inventing the wheels until the polygons become indistinguishable to the real thing.
+- Understand how things work under the hood. Underlying design of systems. The deeper the layer you can go, the more you understand.
+- Don't tie your identity to a technology. Become stack agnostic.
 
-Contact:
+
+Contact
 ---
 <div>
 <a href="https://discord.com/users/331727377019437056"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge"/></a>
