@@ -1,4 +1,4 @@
-Greetings!
+About Me!
 ---
 I'm Sazid. 
 
@@ -6,7 +6,7 @@ Just another person on the internet.
 
 I studied Electrical and Electronic Engineering majoring in Electronics. Finished with a 3.361 cgpa. Now I am working in as well as learning (with help from working professional buddies and kind wizards over the internet) software engineering, particularly focused on backend/server-side, system design, web security.
 
-Hobbies:
+More about me!
 ---
 While walking in parks, I like listening to technical podcasts about Linux, programming, open source, basically anything discussing technology ig?
 
