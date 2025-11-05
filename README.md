@@ -11,6 +11,8 @@ Contact
 <a href="mailto:sazidm@proton.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/></a>
 </div>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=schlafer&layout=compact)
+
 ADHD Corner
 ---
 <picture>
