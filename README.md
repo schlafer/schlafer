@@ -7,8 +7,8 @@ Just another person on the internet.
 Contact
 ---
 <div>
-<a href="https://discord.com/users/331727377019437056"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge"/></a>
-<a href="mailto:sazidm@proton.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/></a>
+<a href="https://discord.com/users/331727377019437056"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord2.svg"/></a>
+<a href="mailto:sazid@sazidmahmud.bd"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail2.svg"/></a>
 </div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=schlafer&layout=compact)
