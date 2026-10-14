@@ -4,11 +4,17 @@ I'm Sazid.
 
 Just another person on the internet. 
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/gist?id=6c7f4749075b2431dfe48acb94a84b21&show_owner=true&theme=vision-friendly-dark)](https://gist.github.com/schlafer/6c7f4749075b2431dfe48acb94a84b21)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=schlafer&show_icons=true&include_all_commits=true&theme=vision-friendly-dark)](https://github-stats-extended.vercel.app/api?username=schlafer&show_icons=true&include_all_commits=true&theme=vision-friendly-dark)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=schlafer&layout=compact&langs_count=4&theme=vision-friendly-dark)](https://github-stats-extended.vercel.app/api/top-langs?username=schlafer&layout=compact&langs_count=4&theme=vision-friendly-dark)
+
 Contact
 ---
 <div>
 <a href="https://discord.com/users/331727377019437056"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord2.svg"/></a>
-<a href="mailto:info@sazidmahmud.bd"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail2.svg"/></a>
+<a href="mailto:sazidm@proton.me"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail2.svg"/></a>
 </div>
 
 ADHD Corner
